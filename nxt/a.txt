@@ -1,0 +1,39 @@
+// {
+//   "id": "2531de08-26de-4bd5-87dd-437256f8a732",
+//   "name": "Customize for NXT",
+//   "publisher": "Bigwork Co., Ltd.",
+//   "version": "25.24.1111.0",
+//   "brief": "",
+//   "description": "",
+//   "privacyStatement": "",
+//   "EULA": "",
+//   "help": "",
+//   "url": "",
+//   "logo": "",
+//   "dependencies": [
+//     {
+//       "name": "Bigwork Thai Localized on D365BCV24",
+//       "id": "420c8b70-9897-492e-acab-c950c06f4775",
+//       "version": "25.24.1210.0",
+//       "publisher": "Bigwork Co., Ltd."
+//     }
+//   ],
+//   "screenshots": [],
+//   "platform": "1.0.0.0",
+//   "application": "25.0.0.0",
+//   "idRanges": [
+//     {
+//       "from": 60000,
+//       "to": 69999
+//     }
+//   ],
+//   "resourceExposurePolicy": {
+//     "allowDebugging": true,
+//     "allowDownloadingSource": false,
+//     "includeSourceInSymbolFile": false
+//   },
+//   "runtime": "14.0",
+//   "features": [
+//     "NoImplicitWith"
+//   ]
+// }

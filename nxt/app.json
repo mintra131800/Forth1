@@ -1,0 +1,45 @@
+{
+  "id": "2531de08-26de-4bd5-87dd-437256f8a732",
+  "name": "Customize for NXT",
+  "publisher": "Bigwork Co., Ltd.",
+  "version": "27.26.0215.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "name": "Bigwork Thai Localized on D365BCV26",
+      "id": "420c8b70-9897-492e-acab-c950c06f4775",
+      "version": "27.26.0204.0",
+      "publisher": "Bigwork Co., Ltd."
+    },
+    {
+      "id": "7c25c5c8-2f2d-450b-ba8e-667eb29622f9",
+      "name": "NXT Addon D365BC Handheld",
+      "publisher": "Bigwork Co., Ltd.",
+      "version": "27.26.0213.0" 
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 69999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
